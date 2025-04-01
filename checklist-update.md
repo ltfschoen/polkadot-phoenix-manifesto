@@ -1,0 +1,19 @@
+# Checklist to update the Polkadot SDK implementation to use the new ambassador manifesto
+
+Requirements to update the Polkadot SDK from its current implementation of the [old Polkadot Ambassador Program Manifesto Draft 4](https://docs.google.com/document/d/1m9E-iJrxeUqvrXbGPcBoANHJhWZpZxE7Jv8dYOL625o/) requirements that were included in this [Github Pull Request \#1308](https://github.com/paritytech/polkadot-sdk/pull/1308) to the [new Polkadot Ambassador Fellowship Manifesto Draft 5.0 requirements](https://github.com/polkadot-phoenix/manifesto/blob/main/version-controle/version5.md).
+
+- [ ] Previously a 10-tier ranking system was built in the ranks module. New changes required to be implemented includes implementation of a 7-rank system with 3 tiers (\`ADVOCATE\_AMBASSADOR\`, \`ASSOCIATE\_AMBASSADOR\`, \`LEAD\_AMBASSADOR\`, \`SENIOR\_AMBASSADOR\`, \`PRINCIPAL\_AMBASSADOR\`, \`GLOBAL\_AMBASSADOR\`, \`GLOBAL\_HEAD\_AMBASSADOR\`).  
+- [ ] Previously centralized promotion/demotion logic with \`PromoteOrigin\` and \`DemoteOrigin\` controlled primarily by root access was built. New changes required to be implemented include implementing community-driven promotion/demotion with rank-weighted voting through \`pallet\_ranked\_collective\`.  
+- [ ] Previously fixed compensation was tied directly to rank through \`pallet\_salary\` was built. New changes required to be implemented includes an Optimistic Funding mechanism as a new pallet that decouples rewards from rank.  
+- [ ] Previously basic referendum tracks with limited voting capabilities were built. New changes required include expanded referendum tracks with rank-weighted voting power and appropriate permission levels.  
+- [ ] Previously a basic member registry with limited on-chain representation was built. New changes required to be implemented include a comprehensive on-chain identity and reputation tracking through \`pallet\_core\_fellowship\`.  
+- [ ] Previously static contribution requirements were hardcoded in the system. New changes required to be implemented include a dynamic contribution framework with on-chain evaluation mechanisms.  
+- [ ] Previously a limited proposal system with restricted access was built. New changes required to be implemented include expanded proposal capabilities with tiered access based on rank.  
+- [ ] Previously a centralized announcement system through \`pallet\_collective\_content\` was built. New changes required to be implemented include implementing a community-driven content management with appropriate permissions.  
+- [ ] Previously basic voting with equal weight regardless of rank was built. New changes required to be implemented include a rank-weighted voting system where higher ranks have proportionally more influence.  
+- [ ] Previously what was built had limited integration with other pallets. New changes required include comprehensive integration with \`pallet\_ranked\_collective\`, \`pallet\_referenda\`, \`pallet\_core\_fellowship\`, and new \`optimistic\_funding pallet\`.  
+- [ ] Previously basic treasury integration with limited transparency was built. New changes required to be implemented include transparent treasury operations with on-chain fund allocation tracking.  
+- [ ] Previously what was built fixed parameters for program operation. New changes required to be implemented include community-adjustable parameters through on-chain governance.  
+- [ ] Previously limited member activity tracking was built. New changes required to be implemented include comprehensive contribution tracking and recognition systems.  
+- [ ] Previously a basic permission system with limited granularity was built. New changes required include a tiered permission system based on rank and contribution areas.  
+- [ ] Previously limited integration with external systems was built. New changes required include improved cross-chain and external system integration capabilities.
