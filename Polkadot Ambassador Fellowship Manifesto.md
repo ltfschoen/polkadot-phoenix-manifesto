@@ -1,5 +1,5 @@
 # Polkadot Ambassador Fellowship Manifesto 
-#### DRAFT 5.0
+#### DRAFT 6.0
 
 #### The Polkadot Community Voices
 
@@ -80,10 +80,23 @@ Interoperability and collaboration are core principles of the Polkadot Network. 
 Knowledge is power; we are committed to being educators and stewards of accurate information. We are dedicated to spreading awareness of Polkadot’s technology, use cases, and benefits. We work tirelessly to ensure everyone, from blockchain novices to seasoned experts, can access resources and guidance that deepen their understanding of the ecosystem.
 
 ##### 2.2.4 Integrity
-We uphold the highest standards of ethics and responsibility. As Ambassadors, we represent the Polkadot Network and commit to maintaining transparency, honesty, and accountability in all our interactions. We build trust through our actions, promoting a decentralised future based on openness and fairness.
+We uphold the highest standards of ethics and responsibility. As Ambassadors, we represent the Polkadot Network and commit to maintaining transparency, honesty, and accountability in all our interactions. We build trust through our actions, promoting a decentralised future based on openness and fairness. Our governance practices align with the principles established in the Polkadot DAO Constitution to maintain trust and accountability within the ecosystem.
 
 ##### 2.2.5 Innovation
 Polkadot is at the forefront of blockchain technology. We are here to inspire and support creativity and innovation within the community. As Ambassadors, we are forward-thinkers, continuously exploring new ways to foster adoption, develop new solutions, and drive the ecosystem towards a future of limitless possibilities.
+
+##### 2.2.6 Wellbeing and Sustainable Work Standards
+We recognize that the health, wellbeing, and sustainability of all ecosystem participants are essential to the long-term success of the Polkadot ecosystem. As Ambassadors, we commit to:
+
+1. **Promoting Sustainable Work Practices**: We advocate for and model balanced work habits that prevent burnout and support long-term participation in the ecosystem.
+
+2. **Respecting Rest and Recovery**: We acknowledge the importance of adequate rest periods and encourage all community members to maintain a healthy work-life balance, including sufficient daily rest of at least 11 consecutive hours in any 24-hour period.
+
+3. **Supporting Inclusive Participation**: We design our activities and governance processes to accommodate different time zones, personal circumstances, and wellbeing needs, ensuring that participation does not require harmful overwork.
+
+4. **Addressing Language Barriers Proactively**: We establish clear processes for translation support, with members requiring translation assistance encouraged to request it early in governance processes.
+
+5. **Advocating for Ecosystem-Wide Standards**: We support the incorporation of sustainable work standards into the broader Polkadot ecosystem governance, including the Polkadot DAO Constitution.
 
 #### 2.3 Mission
 
@@ -131,13 +144,11 @@ Ambassador Fellowship members are expected to uphold the following tenets faithf
 
 Operational rules should evolve relative to who composes the Ambassador Fellowship and be driven by the community's current needs. As much as possible, they should remain a social agreement between members of the collective, built on discussions, common consensus, and past votes. 
 
-The operational guidelines for the Ambassador Fellowship’s membership are outlined below. They suggest the process for joining, advancing in rank, and maintaining status, at least for the program's initial phase.
+#### 4.1 Ranks and Governance Structure
 
-- All individuals can become Ambassadors for Polkadot. 
-- There are no limits to the number of Ambassadors at any rank
-- Ambassadors are expected to have achieved different levels of work and outcomes to be promoted to the next rank.
-- Each rank should require an ever-increasing level of involvement, dedication, and results that reflect the legitimacy the title will convey to its bearer.
-- The Ambassador Fellowship must relieve OpenGov from most meaningless solicitation and should embrace self-management. 
+The Ambassador Fellowship operates with a rank-based governance structure that aligns with the on-chain implementation in the Polkadot runtime. Each rank carries specific voting power, responsibilities, and privileges within the governance system.
+
+##### 4.1.1 Rank Structure
 
 | Rank | Name                     | Tier  | Voting Weight |
 |------|---------------------------|-------|---------------|
@@ -152,20 +163,6 @@ The operational guidelines for the Ambassador Fellowship’s membership are outl
 _*Tier 1—Listeners: Listening, Learning and Demonstrating Understanding_
 _**Tier 2—Engagers: Active engagement_
 _***Tier 3—Drivers: Leadership and Innovation._
-
-#### 4.1 Onboarding and Offboarding
-
-##### 4.1.1 Onboarding
-As an Advocate Ambassador,  Rank 0
-Ambassadors can be onboarded in two ways: (1) Through a current member of the Fellowship at any Rank above Rank 0 or (2) Self-onboard by locking one DOT from a verified on-chain account on the Fellowship pallet. An educational video on accomplishing this will be shared upon opening the programme.
-
-At a rank higher than Advocate Ambassador, Rank 1 and above
-Seeding: individuals can be onboarded into any rank through a public referendum. However, this should remain exceptional and be primarily used for the program's initial seeding and if the community needs to revoke the ranks and title of a specific agent. 
-
-##### 4.1.2 Offboarding
-Ambassadors at any rank can remove themselves from the Fellowship by unlocking their one DOT. Removal will be instant. The educational content on accomplishing this will be shared upon opening the programme.
-
-For higher ranks, a mediation process takes place, and removal from the program happens based on a process that is active at any given moment. The details of this process can change and develop based on the current needs of the ecosystem. 
 
 #### 4.2 Promotion
 
@@ -186,20 +183,99 @@ To be promoted to the next rank, you need a majority vote of ambassadors who are
 
 By majority vote, we mean those who vote within the Ambassador Fellowship, not all potential voters. We cannot expect everyone to turn out for every vote, though there are expectations that voting turnout should increase as individuals rise the ranks. A majority vote means that the vote concludes with more than a 50% approval rate.
 
+According to the on-chain implementation, members can only be promoted one rank at a time, ensuring gradual transitions and fair process. Promotion can be initiated by Root origin (highest authority), FellowshipAdmin origin (token holder referendum), or Senior Ambassadors and above for members of lower ranks.
+
 #### 4.3 Voting Process
 
-The Ambassador Fellowship will favour social consensus in its decision-making, using on-chain voting only in cases where a consensus cannot be reached. When voting is required, it will happen within the Ambassador Fellowship to reduce OpenGov solicitation as much as possible. 
+**Voting Process and Principles**
 
-Decisions that Ambassadors may need to reach a consensus on via the voting system:
+The Ambassador Fellowship favors social consensus whenever possible. Formal voting is only required when consensus cannot be reached. When formal voting is required, the process will be as follows:
 
-- Promotions and demotions
-- Programme treasury spending
-- Additions and removals
-- Minor amendments to the manifesto
+1. A proposal is made by a Member or group of Members.
+2. The proposal is discussed for a minimum of 7 days.
+3. A vote is held for a minimum of 7 days.
+4. All votes must include three explicit options: AYE, NAY, and ABSTAIN, with the ability for voters to optionally provide a reason for their choice at the time of casting their vote.
+5. The outcome is determined by the majority of rank-weighted votes.
 
-Should the Ambassador Fellowship require major changes, members can ratify the suggested changes using the fellowship-internal voting process. Non-members can only propose changes via the OpenGov root track.
+This voting process prepares Members for on-chain governance participation while ensuring decisions are made with appropriate deliberation and transparency, aligning with the broader principles of decentralised governance and community-driven decision-making.
 
-#### 4.4 Demotion and Removal 
+In the on-chain implementation, voting power is assigned according to rank level (Linear voting weight), and votes are tallied using the ranked-collective voting mechanism.
+
+#### 4.4 Accountability and Responsibility for Informed Voting
+
+The Ambassador Fellowship recognizes that effective governance requires informed participation. Members have both rights and responsibilities when participating in governance processes:
+
+##### 4.4.1 Member Responsibilities
+
+1. **Informed Participation**: Members must take responsibility for understanding proposals before voting.
+   - Members should read all relevant documentation and discussions
+   - Members should seek clarification during the discussion period if anything is unclear
+   - Members should abstain from voting when they lack sufficient information to make an informed decision
+
+2. **Proactive Clarification**: Questions about meaning or implications should be asked during discussion periods, not after voting.
+   - Members with language barriers should request translation assistance early in the process
+   - Technical questions should be raised during the discussion period
+   - Concerns about implementation details or timing should be expressed before votes are cast
+
+3. **Vote Finality**: Once cast, votes are considered final and cannot be changed based on claimed misunderstanding.
+   - This principle prepares participants for the reality of on-chain governance
+   - It creates necessary incentives for informed participation
+   - It maintains the integrity and finality of governance decisions
+
+##### 4.4.2 Fellowship Responsibilities
+
+1. **Clear Communication**: The Fellowship must ensure all proposals and polls are clearly communicated.
+   - Use simple, unambiguous language
+   - Provide comprehensive documentation
+   - Clearly separate conditional interest ("if" questions) from implementation approval ("how" questions)
+
+2. **Translation Support**: The Fellowship will establish robust processes for translation support to ensure inclusive participation regardless of language barriers.
+   - Members requiring translation must request it at least 5 business days before voting closes
+   - The Fellowship will facilitate language-specific support groups for major languages represented in the membership
+   - Translation requests will be prioritized based on the complexity and importance of the proposal
+   - Critical governance proposals will be proactively translated into languages spoken by at least 10% of the membership
+   - Translation quality will be verified by native speakers whenever possible
+   - The Fellowship will maintain a roster of volunteer translators and may allocate resources for professional translation of complex or critical documents
+
+3. **Verification Mechanisms**: For critical decisions, the Fellowship may implement verification of understanding.
+   - Verification polls may be conducted to confirm members understand key implications
+   - Verification questions will be straightforward but substantive
+   - Verification will focus on core concepts rather than technical minutiae
+
+##### 4.4.3 Governance Improvement and Accountability
+
+1. **Documentation of Governance Outcomes**: The Fellowship will document voting outcomes, participation rates, and implementation results to build a transparent record of governance effectiveness.
+
+2. **Regular Review and Adaptation**: The Fellowship will regularly review and improve its governance processes based on lessons learned, adapting procedures to address identified weaknesses.
+
+3. **Educational Resources**: The Fellowship will develop educational resources to help members understand governance processes and their responsibilities, with particular focus on informed participation.
+
+4. **Transparent Reporting**: The Fellowship will maintain public records of governance activities, ensuring that all members and the broader ecosystem can monitor decision-making processes and outcomes.
+
+5. **Feedback Mechanisms**: The Fellowship will establish clear channels for members to provide feedback on governance processes, ensuring continuous improvement based on practical experience.
+
+##### 4.4.4 Conflict of Interest Management
+
+The Ambassador Fellowship recognizes that effective governance requires transparent management of conflicts of interest:
+
+1. **Mandatory Disclosure**: Members must disclose any potential conflicts of interest before participating in discussions or votes on related matters.
+   - Disclosures must be made as soon as a potential conflict becomes apparent
+   - Disclosures must include the nature and extent of the conflict
+   - Failure to disclose conflicts may result in governance penalties
+
+2. **Voting Restrictions**: Members with significant conflicts of interest on specific matters should recuse themselves from voting on those matters.
+   - Direct financial conflicts require complete recusal from related votes
+   - Indirect conflicts may require partial voting restrictions based on severity
+   - The Fellowship may establish conflict severity guidelines to determine appropriate restrictions
+
+3. **Transparency in Decision-Making**: All disclosed conflicts will be documented and made available alongside voting records to ensure transparency.
+   - Conflict disclosures will be included in proposal documentation
+   - Voting records will indicate which members recused themselves due to conflicts
+   - Regular audits of conflict management practices will be conducted
+
+4. **Continuous Improvement**: The Fellowship will regularly review and refine its conflict of interest policies based on practical experience and emerging best practices in decentralized governance.
+
+#### 4.5 Demotion and Removal 
 
 There are three schools of thought surrounding a process which demotes individuals from their rank.
 
@@ -211,7 +287,66 @@ There are three schools of thought surrounding a process which demotes individua
 
 The broad spectrum nature of the Fellowship mandates that those in the programme should assess the need for a demotion framework upon its establishment. The three schools of thought may all have a place within this programme, and the lived experience should clarify what is necessary to encourage a culture of passion, dedication and openness within the Fellowship and broader community. Protecting and driving forward a favourable reputation of Polkadot is a minimum expectation of individuals that join self-policing should occur naturally. If there is still a need for a clear demotion process, the fellowship can vote internally for an amendment to this manifesto. 
 
-DOT token holders can propose amendments through OpenGov via root referendum or request the demotion or revocation of any Ambassador at any time via the Fellowship admin track. 
+DOT token holders can propose amendments through OpenGov via root referendum or request the demotion or revocation of any Ambassador at any time via the Fellowship admin track.
+
+According to the on-chain implementation, demotion can be initiated by Root origin (highest authority), FellowshipAdmin origin (token holder referendum), or Senior Ambassadors and above for members of lower ranks. Members can only be demoted one rank at a time, ensuring gradual transitions and fair process. Members facing potential demotion may be subject to retention votes through dedicated voting tracks for each rank level.
+
+#### 4.6 Constitutional Alignment
+
+{{ ... }}
+
+#### 4.7 Treasury Management
+
+The Ambassador Fellowship maintains its own treasury, implemented as a dedicated instance of the Treasury pallet in the runtime. Treasury operations follow these guidelines:
+
+1. **Spending Authority**: Treasury spending can be authorized by:
+   - Root origin
+   - The Treasurer origin (requires Global Ambassador rank)
+   - The Tip origin (requires Senior Ambassador rank)
+
+2. **Spending Limits**:
+   - Tip proposals are limited to 250 DOT
+   - Treasurer proposals can allocate up to 10,000 DOT
+
+3. **Proposal Process**:
+   - Treasury proposals require a 100% bond (as defined by the ProposalBond parameter)
+   - The spend period is set to 7 days
+   - Proposals can be rejected by OpenGov or Global Head Ambassador origin
+   - A maximum of 100 approvals can be active at any time
+
+4. **Payout Timeline**:
+   - Approved treasury payouts have a 90-day payout period
+
+5. **Accountability**:
+   - All treasury transactions are recorded on-chain for complete transparency
+   - Regular reporting on treasury activities will be provided to the Fellowship
+
+#### 4.8 Voting Tracks and Referendum Process
+
+The Ambassador Fellowship governance system includes specialized voting tracks for different types of decisions, aligned with the on-chain implementation:
+
+1. **Standard Rank Tracks**: Each rank (Associate through Global Head Ambassador) has its own voting track, with participation limited to members of that rank or higher.
+
+2. **Retention Tracks**: Dedicated tracks for retention votes at each rank level, with specific parameters:
+   - 14-day decision period
+   - 60% approval threshold
+   - 10% minimum support threshold
+
+3. **Promotion Tracks**: Specialized tracks for promotion decisions to each rank:
+   - 30-day decision period
+   - 60% approval threshold
+   - 10% minimum support threshold
+
+4. **Fast-Track Promotion**: Expedited promotion tracks for Associate, Lead, and Senior Ambassador ranks:
+   - 7-day decision period
+   - Higher approval thresholds
+   - Limited to exceptional circumstances
+
+5. **Treasury Tracks**: Specialized tracks for treasury operations:
+   - Tip track: 7-day decision period, managed by Senior Ambassadors
+   - Treasurer track: 28-day decision period, managed by Global Ambassadors
+
+Each track has specific parameters for decision deposits, preparation periods, confirmation periods, and enactment periods as defined in the runtime configuration.
 
 ### 5. The Funding
 #### 5.1 Overview
