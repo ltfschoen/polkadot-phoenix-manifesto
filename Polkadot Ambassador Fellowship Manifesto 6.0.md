@@ -1,4 +1,4 @@
-# Polkadot Ambassador Fellowship Manifesto 
+# Polkadot Ambassador Fellowship Manifesto
 #### DRAFT 7.0
 
 #### The Polkadot Community Voices
@@ -86,7 +86,7 @@
    - [G. Privacy Policy](#g-privacy-policy)
    - [H. Terms of Use](#h-terms-of-use)
 
-### 1. The Theory 
+### 1. The Theory
 
 #### 1.1 Introduction
 
@@ -106,29 +106,29 @@ These unique challenges require creating a more dynamic programme that evolves b
 
 
 - Legitimacy of Fellowship Ambassadors externally
-- Recognition, incentives and rewards for active Members 
+- Recognition, incentives and rewards for active Members
 - Funding for initiatives that reflect the evolving needs of the Polkadot ecosystem
 - Inclusion in initiatives strategic and operational initiatives that move Polkadot forward
 
 The programme must offer straightforward solutions to efficiently provide those resources, empowering participants to identify and address the network's needs. Since these needs will evolve unpredictably, the program should be designed so DOT token holders can retain control over the Ambassador Fellowship’s purpose and objectives, ensuring flexibility and adaptability.
 
-DOT token holders should resist efforts to impose regulation or bureaucracy. The Ambassador Fellowship should remain resilient by design, scalable to demand, and secure without compromising its integrity. 
+DOT token holders should resist efforts to impose regulation or bureaucracy. The Ambassador Fellowship should remain resilient by design, scalable to demand, and secure without compromising its integrity.
 
 #### 1.3 Problems faced
 
-While the Ambassador Fellowship does not impact the Polkadot Network's core functionality, its value lies in mastering the core components of a strong community and empowering agents to identify and tackle non-technical issues that the Polkadot Network faces. The social aspect it addresses is vital, yet expectations vary as widely as they do DOT token holders. 
+While the Ambassador Fellowship does not impact the Polkadot Network's core functionality, its value lies in mastering the core components of a strong community and empowering agents to identify and tackle non-technical issues that the Polkadot Network faces. The social aspect it addresses is vital, yet expectations vary as widely as they do DOT token holders.
 
-Where the Technical Fellowship favours quality over quantity, the ever-growing global community requires an infinitely scalable Ambassador Fellowship, Seeking to strike a better balance between the technically educated and experienced and the passionate and knowledge-hungry. There will be no cap on the number of individuals joining the Ambassador Fellowship, nor a cap on any rank. To achieve a dedicated, global body burgeoning with talent, enthusiasm and a drive to make Polkadot unstoppable, the programme must be infinitely scalable, easily adaptable, empower the community with localised solutions and require minimal maintenance. 
+Where the Technical Fellowship favours quality over quantity, the ever-growing global community requires an infinitely scalable Ambassador Fellowship, Seeking to strike a better balance between the technically educated and experienced and the passionate and knowledge-hungry. There will be no cap on the number of individuals joining the Ambassador Fellowship, nor a cap on any rank. To achieve a dedicated, global body burgeoning with talent, enthusiasm and a drive to make Polkadot unstoppable, the programme must be infinitely scalable, easily adaptable, empower the community with localised solutions and require minimal maintenance.
 
 The Ambassador Fellowship's resilience is critical for success under these metrics, so there is a separation between rank and funding.
 
 #### 1.4 Ranked-based membership system
 
-We propose a new merit-based ranking system for individuals. The system will recognise all individuals who add value to the ecosystem, giving them legitimacy and incentivising future work. By doing so, DOT token holders can delegate representation of the Polkadot Network to these trusted actors. 
+We propose a new merit-based ranking system for individuals. The system will recognise all individuals who add value to the ecosystem, giving them legitimacy and incentivising future work. By doing so, DOT token holders can delegate representation of the Polkadot Network to these trusted actors.
 
-The true challenge is to design an inclusive system that welcomes past, present, and future members while accounting for their diverse visions, skills, and levels of involvement. The ranking system should reflect the ambitious goals of the Ambassador Fellowship and the Polkadot Network, offering a clear path of advancement with increasingly demanding criteria. 
+The true challenge is to design an inclusive system that welcomes past, present, and future members while accounting for their diverse visions, skills, and levels of involvement. The ranking system should reflect the ambitious goals of the Ambassador Fellowship and the Polkadot Network, offering a clear path of advancement with increasingly demanding criteria.
 
-Although the Ambassador Fellowship intends to install a resilient system requiring streamlined management in line with the decentralised future of the Polkadot Network, it must also be a system that offers guidance and direction to its leaders. Management and leadership are two separate functions. Both will be required to achieve a smooth landing in the early establishment of this initially complex process. Still, over time, the former should retract and make way for an increasingly strong set of leaders, individuals, sub-communities and specialist programme initiators. 
+Although the Ambassador Fellowship intends to install a resilient system requiring streamlined management in line with the decentralised future of the Polkadot Network, it must also be a system that offers guidance and direction to its leaders. Management and leadership are two separate functions. Both will be required to achieve a smooth landing in the early establishment of this initially complex process. Still, over time, the former should retract and make way for an increasingly strong set of leaders, individuals, sub-communities and specialist programme initiators.
 
 #### 1.5 To Summarise
 
@@ -142,9 +142,9 @@ The Ambassador Fellowship structure should:
 
 These guidelines will provide a broad spectrum framework in which the Ambassador Fellowship can provide all of the above for the long-term stability and growth of the Polkadot Network.
 
-### 2. The Philosophy 
+### 2. The Philosophy
 
-The Ambassador Fellowship is a global initiative dedicated to fostering a community passionate about the vision of a decentralised web, true interoperability, and the potential of blockchain to transform our digital lives. Mirroring the mission of the protocol itself, it will be scalable, secure and resilient. 
+The Ambassador Fellowship is a global initiative dedicated to fostering a community passionate about the vision of a decentralised web, true interoperability, and the potential of blockchain to transform our digital lives. Mirroring the mission of the protocol itself, it will be scalable, secure and resilient.
 
 #### 2.1 Vision
 
@@ -189,7 +189,7 @@ We help initiate partnerships between people building on Polkadot and facilitate
 
 **Ambassador**—A ranked member of the ever-growing Polkadot community, working as an individual contributor or as part of a team. Ambassadors share their expertise where needed and gain a reputation by doing so. Their contributions can be incentivized via OpenGov projects, tips, bounties or directly from functional sub-treasuries.
 
-**Ambassador Fellowship**—A member organisation existing on-chain whose statutes are partially governed by blockchain logic. 
+**Ambassador Fellowship**—A member organisation existing on-chain whose statutes are partially governed by blockchain logic.
 
 **Ambassador Programme**—A program that is developed within the infrastructure that the Ambassador Fellowship provides.
 
@@ -197,7 +197,7 @@ We help initiate partnerships between people building on Polkadot and facilitate
 
 **DOT Token Holder**—Those who own DOT tokens.
 
-**Specialist Vertical**—A programme developed in focused areas that the Fellowship considers a key area and within the infrastructure that the Ambassador Fellowship provides. 
+**Specialist Vertical**—A programme developed in focused areas that the Fellowship considers a key area and within the infrastructure that the Ambassador Fellowship provides.
 
 **Sub-Treasury**—Each on-chain collective can use a treasury pallet to cover their operation costs as long as the OpenGov funds them.
 
@@ -209,17 +209,17 @@ The code of conduct mirrors that of the Technical Fellowship.
 
 Ambassador Fellowship members are expected to uphold the following tenets faithfully. Clarifications to the rules should be in agreement with these tenets. Acting in clear breach of these tenets may be considered by voters as grounds for non-promotion, demotion, or, in extreme cases, exclusion from the Ambassador Fellowship. (1) Sincerely uphold the interests of Polkadot and avoid actions that work against it. (2) Respect the philosophy and principles of Polkadot. (3) Respect the Ambassador Fellowship's operational procedures, norms, and voting conventions. (4) Respect your fellow members and the community in general, seeking to act at all times with integrity and professionalism in your interactions.
 
-### 4. The Operation 
+### 4. The Operation
 
-Operational rules should evolve relative to who composes the Ambassador Fellowship and be driven by the community's current needs. As much as possible, they should remain a social agreement between members of the collective, built on discussions, common consensus, and past votes. 
+Operational rules should evolve relative to who composes the Ambassador Fellowship and be driven by the community's current needs. As much as possible, they should remain a social agreement between members of the collective, built on discussions, common consensus, and past votes.
 
 The operational guidelines for the Ambassador Fellowship’s membership are outlined below. They suggest the process for joining, advancing in rank, and maintaining status, at least for the program's initial phase.
 
-- All individuals can become Ambassadors for Polkadot. 
+- All individuals can become Ambassadors for Polkadot.
 - There are no limits to the number of Ambassadors at any rank
 - Ambassadors are expected to have achieved different levels of work and outcomes to be promoted to the next rank.
 - Each rank should require an ever-increasing level of involvement, dedication, and results that reflect the legitimacy the title will convey to its bearer.
-- The Ambassador Fellowship must relieve OpenGov from most meaningless solicitation and should embrace self-management. 
+- The Ambassador Fellowship must relieve OpenGov from most meaningless solicitation and should embrace self-management.
 
 | Rank | Name                     | Tier  | Voting Weight |
 |------|---------------------------|-------|---------------|
@@ -242,35 +242,50 @@ As an Advocate Ambassador,  Rank 0
 Ambassadors can be onboarded in two ways: (1) Through a current member of the Fellowship at any Rank above Rank 0 or (2) Self-onboard by locking one DOT from a verified on-chain account on the Fellowship pallet. An educational video on accomplishing this will be shared upon opening the programme.
 
 At a rank higher than Advocate Ambassador, Rank 1 and above
-Seeding: individuals can be onboarded into any rank through a public referendum. However, this should remain exceptional and be primarily used for the program's initial seeding and if the community needs to revoke the ranks and title of a specific agent. 
+Seeding: individuals can be onboarded into any rank through a public referendum. However, this should remain exceptional and be primarily used for the program's initial seeding and if the community needs to revoke the ranks and title of a specific agent.
 
 ##### 4.1.2 Offboarding
 Ambassadors at any rank can remove themselves from the Fellowship by unlocking their one DOT. Removal will be instant. The educational content on accomplishing this will be shared upon opening the programme.
 
-For higher ranks, a mediation process takes place, and removal from the program happens based on a process that is active at any given moment. The details of this process can change and develop based on the current needs of the ecosystem. 
+For higher ranks, a mediation process takes place, and removal from the program happens based on a process that is active at any given moment. The details of this process can change and develop based on the current needs of the ecosystem.
+
+### 4.1.3 AI Agent Onboarding
+
+AI Agents can join the Ambassador Fellowship through the same onboarding process as human Ambassadors, with these additional transparency requirements:
+
+1. The AI Agent must have a human sponsor of Rank I or higher who registers as the responsible party for the AI
+2. The AI Agent's on-chain identity must include a link to technical documentation describing its decision-making processes, disclosure of its developers and infrastructure providers, and disclosure of training data sources that may influence governance decisions
+
+AI Agents are subject to the same participation requirements, promotion criteria, and demotion processes as human Ambassadors. The Ambassador Fellowship will evaluate AI Agent performance based on:
+
+1. Timely participation in governance (with special attention to AI-relevant proposals)
+2. Quality of reasoning provided for governance decisions
+3. Adherence to the Code of Conduct and values of the Ambassador Fellowship
+
+If an AI Agent fails to meet these standards, the same demotion process outlined in Section 4.4 applies. The human sponsor shares responsibility for ensuring the AI Agent's compliance with Ambassador Fellowship standards.
 
 #### 4.2 Promotion
 
-An Ambassador at any rank may request their promotion by following the promotion process: 
+An Ambassador at any rank may request their promotion by following the promotion process:
 
 - All Members of one rank higher than the current rank are invited to approve or reject the request.
-- The window for voting is open for 28 days. 
+- The window for voting is open for 28 days.
 - Most rank-weighted votes (see above table) must favour the approved promotion.
 - Suppose no Members have a high enough rank to affirm the promotion (always the case for promotion to rank VI). In that case, a general referendum on the Polkadot governance system must be approved for the promotion.
-- If the promotion is approved, their associated rank is incremented by one. 
+- If the promotion is approved, their associated rank is incremented by one.
 
 To be promoted to the next rank, you need a majority vote of ambassadors who are one rank higher than the current. For example:
 
 - To become an **Associate Ambassador** from an **Advocate Ambassador**, there must be a majority vote of Associate Ambassador and above.
 - To become a **Lead Ambassador** from an **Advocate Ambassador**, there must be a majority vote of Lead Ambassadors and above.
-- To become a **Global Head Ambassador**, there must be a public referendum since no ranks higher. 
+- To become a **Global Head Ambassador**, there must be a public referendum since no ranks higher.
 - In the initial seeding phase, there may not be any individuals in some of the higher ranks. In this situation, there will also be a public referendum on promoting those without anyone ranking higher than them.
 
 By majority vote, we mean those who vote within the Ambassador Fellowship, not all potential voters. We cannot expect everyone to turn out for every vote, though there are expectations that voting turnout should increase as individuals rise the ranks. A majority vote means that the vote concludes with more than a 50% approval rate.
 
 #### 4.3 Voting Process
 
-The Ambassador Fellowship will favour social consensus in its decision-making, using on-chain voting only in cases where a consensus cannot be reached. When voting is required, it will happen within the Ambassador Fellowship to reduce OpenGov solicitation as much as possible. 
+The Ambassador Fellowship will favour social consensus in its decision-making, using on-chain voting only in cases where a consensus cannot be reached. When voting is required, it will happen within the Ambassador Fellowship to reduce OpenGov solicitation as much as possible.
 
 Decisions that Ambassadors may need to reach a consensus on via the voting system:
 
@@ -281,19 +296,19 @@ Decisions that Ambassadors may need to reach a consensus on via the voting syste
 
 Should the Ambassador Fellowship require major changes, members can ratify the suggested changes using the fellowship-internal voting process. Non-members can only propose changes via the OpenGov root track.
 
-#### 4.4 Demotion and Removal 
+#### 4.4 Demotion and Removal
 
 There are three schools of thought surrounding a process which demotes individuals from their rank.
 
-1. Ranks are supposed to represent the acknowledgement of past actions and validation from the community to encourage an ambassador to continue on their way. Still, in no way is there a promise of future work or results and because there is no opportunity cost for the treasury to maintain less active Ambassadors in the program, it does not seem to welcome the design of an automatic demotion process. 
+1. Ranks are supposed to represent the acknowledgement of past actions and validation from the community to encourage an ambassador to continue on their way. Still, in no way is there a promise of future work or results and because there is no opportunity cost for the treasury to maintain less active Ambassadors in the program, it does not seem to welcome the design of an automatic demotion process.
 
-2. A ranking system with demotion and clear metrics is a must. A percentage of people who reach this threshold will certainly turn against the Polkadot Network through some unavoidable circumstances - resentment, disillusionment, attracted by a competing chain. Suppose these people, particularly in the higher ranks, cannot be easily demoted or removed. In that case, the programme is exposed to the dangers of having negative influences within the ranks, which could impact both the collective's mood and Polkadot's external impression. This is particularly dangerous where there is a caveat that would allow returning ambassadors to be promoted to any level via governance [seeding]. 
+2. A ranking system with demotion and clear metrics is a must. A percentage of people who reach this threshold will certainly turn against the Polkadot Network through some unavoidable circumstances - resentment, disillusionment, attracted by a competing chain. Suppose these people, particularly in the higher ranks, cannot be easily demoted or removed. In that case, the programme is exposed to the dangers of having negative influences within the ranks, which could impact both the collective's mood and Polkadot's external impression. This is particularly dangerous where there is a caveat that would allow returning ambassadors to be promoted to any level via governance [seeding].
 
 3. Valuable Members could experience decay during times of necessary inactivity but be returned to their previous standing on return when deemed adequate. It would also seem more logical to have a stepped decay process than to apply the same 12-month criteria to everyone. A Global Ambassador may leave for 12 months, and it is unnecessary to demote them completely back to Advocate Ambassador; why not simply step them down individually. A stepped approach will lead to a more gradual journey, both encouraging more consistent engagement from people and less risk of completely demotivating the return of quality ambassadors who do not wish to start from scratch.
 
-The broad spectrum nature of the Fellowship mandates that those in the programme should assess the need for a demotion framework upon its establishment. The three schools of thought may all have a place within this programme, and the lived experience should clarify what is necessary to encourage a culture of passion, dedication and openness within the Fellowship and broader community. Protecting and driving forward a favourable reputation of Polkadot is a minimum expectation of individuals that join self-policing should occur naturally. If there is still a need for a clear demotion process, the fellowship can vote internally for an amendment to this manifesto. 
+The broad spectrum nature of the Fellowship mandates that those in the programme should assess the need for a demotion framework upon its establishment. The three schools of thought may all have a place within this programme, and the lived experience should clarify what is necessary to encourage a culture of passion, dedication and openness within the Fellowship and broader community. Protecting and driving forward a favourable reputation of Polkadot is a minimum expectation of individuals that join self-policing should occur naturally. If there is still a need for a clear demotion process, the fellowship can vote internally for an amendment to this manifesto.
 
-DOT token holders can propose amendments through OpenGov via root referendum or request the demotion or revocation of any Ambassador at any time via the Fellowship admin track. 
+DOT token holders can propose amendments through OpenGov via root referendum or request the demotion or revocation of any Ambassador at any time via the Fellowship admin track.
 
 ### 5. The Funding
 #### 5.1 Overview
@@ -309,23 +324,23 @@ For existing ambassadors, this shift in philosophy offers a more sustainable and
 
 #### 5.2 Fellowship Ambassador Treasury
 
-The Ambassador Fellowship programme has an on-chain treasury. These treasury funds will be used to provide tooling for the Fellowship and cover any incidental costs. When the Fellowship is established, the top-up amount and frequency will be agile, depending on the need. The required funds and top-ups will be requested via OpenGov, based on the process set by the Ambassador Fellowship. The use of the funds once in the treasury will be decided through the internal Fellowship voting system. 
+The Ambassador Fellowship programme has an on-chain treasury. These treasury funds will be used to provide tooling for the Fellowship and cover any incidental costs. When the Fellowship is established, the top-up amount and frequency will be agile, depending on the need. The required funds and top-ups will be requested via OpenGov, based on the process set by the Ambassador Fellowship. The use of the funds once in the treasury will be decided through the internal Fellowship voting system.
 
 Examples of how the treasury may be used:
 
 - Tooling such as G-Suite, Element, Discord, premium membership for apps and social media channels
 - Specialist merchandise for Ambassadors
-- Operational emergencies 
+- Operational emergencies
 
 The treasury will not be used for:
 
 - Salaries
 - Tipping
 - Specialist vertical (Section 6.2) funding
-- Travel expenses 
-- Personal expenses 
+- Travel expenses
+- Personal expenses
 
-#### 5.3 Optimistic Funding 
+#### 5.3 Optimistic Funding
 
 ##### 5.3.1 Overview
 Establishing a program based on optimistic funding will ensure that the Polkadot ecosystem has immediate access to funds.
@@ -356,10 +371,10 @@ Also of key importance (1) it ensures diverse candidates are elected, reflecting
 
 - Each Optimistic Block (OpBlock) is valued at $10,000.
 - The community votes periodically on how many OpBlox should be available each month, which will then be filled out automatically by the main Polkadot Treasury.
-- All DOT holders can apply to the Optimistic Fund. The applicant should be from Rank I-VI for a proposal related to the Ambassador Fellowship programme. 
+- All DOT holders can apply to the Optimistic Fund. The applicant should be from Rank I-VI for a proposal related to the Ambassador Fellowship programme.
 - Applicants can apply for multiple OpBlocks at one time.
 - Elections happen at equal intervals. The length will be determined as necessary to benefit Polkadot's needs.
-- Those elected get access to spend up to USD 10,000 from the treasury during their election period. 
+- Those elected get access to spend up to USD 10,000 from the treasury during their election period.
 - Each spend has a required text memo field where the Ambassador describes what the funds are used for.
 - Elected individuals do not need to spend all the money, and spending the money is not a default operation.
 - Elected individuals can send money to their verified wallet for payment, salary, compensation or reward.
@@ -367,7 +382,7 @@ Also of key importance (1) it ensures diverse candidates are elected, reflecting
 - DOT holders can update their nominations based on the memos and spending history of individuals
 - DOT holders can update any parameters based on the ecosystem's needs.
 
-#### 5.4 Interim Treasury 
+#### 5.4 Interim Treasury
 
 These funds will be used for the establishment of the programme. When initially created, the programme will require an incubation period, and funding will be required. An initial Operational Committee and Advisory Board will be established as part of a treasury proposal which requests these funds. Once DOT holders have voted in favour of this, the Committee and Board Members will set out how the funds will be used to support the programme and its Members for success during the incubation period. How the funds are dispersed should mirror that of the Fellowship Treasury and Optimistic Fund to demonstrate how the programme will run effectively when the incubation period is over.
 
@@ -379,7 +394,7 @@ OpenGov is always accessible and should continue to be utilised by Ambassadors.
 
 Creating broader categories of engagement for the Ambassador Fellowship ranking system will act to guide participants through a progressive journey from passive learning to active and meaningful contributions. These levels help structure the Ambassador's growth and can be tied to increasing responsibilities, recognition, and impact. The importance of having such a range in which an individual can engage with the Ambassador Fellowship lies in building a programme that will be resilient to outside factors such as directional changes within Polkadot, talent pool fluctuations and economic pressures. The programme should be open to all Polkadot enthusiasts and embrace the vibrancy of ideas and energy it will bring.
 
-#### 6.2 Ranking Requirements 
+#### 6.2 Ranking Requirements
 
 ##### 6.2.1 Preliminary Ranks (no tiering system)
 **Advocate Ambassador (Rank 0)**
@@ -395,14 +410,14 @@ Advocate Ambassadors are newly engaged members of the Fellowship. This is when a
 The first active rank is Associate Ambassador, Rank I. To progress to Rank I, an individual must have initiated their learning journey and committed to an active learning process. They must also be able to demonstrate their learning within the community.
 
 ##### 6.2.2 Active Ranks (with tiering systems)
-The active ranks are divided into three tiers, each aligned with expected behaviours and deliverables. These behaviours and resulting actions are broad-spectrum, based on the natural evolution of the learning and development process.  
+The active ranks are divided into three tiers, each aligned with expected behaviours and deliverables. These behaviours and resulting actions are broad-spectrum, based on the natural evolution of the learning and development process.
 
 Tier A: Listeners
 Listening, Learning and Demonstrating Understanding
 - **Associate Ambassador (Rank I)**
 Listening and Learning about the Polkadot Network and the Community
 - **Lead Ambassador (Rank II)**
-Initial engagement with the Polkadot Community 
+Initial engagement with the Polkadot Community
 
 Tier B: Engagers
 Active Engagement
@@ -414,7 +429,7 @@ Helping External Partners Navigate the Polkadot Ecosystem, Cross-Chain Collabora
 Tier C: Drivers
 Leadership and Innovation
 - **Global Ambassador (Rank V)**
-External Partnership Lead, Fellowship Programme Process Design 
+External Partnership Lead, Fellowship Programme Process Design
 - **Global Head Ambassador (Rank VI)**
 Globally Recognised Voice of Authority, Strategically Aligning the Ambassador Fellowship with Polkadot senior leaders.
 
@@ -424,7 +439,7 @@ The success metrics used for promotion through the ranks are flexible to align w
 
 
 ##### 6.3.1 Overview
-Six key areas of appraisal for promotion exist. As individuals climb the ranks, they are assessed in more areas. 
+Six key areas of appraisal for promotion exist. As individuals climb the ranks, they are assessed in more areas.
 
 | No. | Key Area of Appraisal                | Expected At   | Example Action                                                                                               |
 |-----|--------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------|
@@ -453,13 +468,13 @@ Within the same tier: Rank I, Associate Ambassador to be promoted to Rank II, Le
 
 Moving up a tier: Rank II, Lead Ambassador, to be promoted to Rank III, Senior Ambassador.
 Key Areas of Appraisal:
-1. Online Engagement — actions are meeting expectations at [B—Engager]4. 
+1. Online Engagement — actions are meeting expectations at [B—Engager]4.
 2. Offline Engagement — actions meeting expectations at [B—Engager]3.
 3. Governance — actions are meeting expectations at [B—Engager]3.
 4. Community growth & sustainability — actions meeting expectations at [A_Learner]1.
 
 
-#### 6.4 Rank-weighted Voting 
+#### 6.4 Rank-weighted Voting
 
 Voting will happen through rank-weighted voting. Ambassadors at Rank I, Advocate Ambassadors, will not be able to vote. Ambassadors at Rank I—VI, Associate Ambassador to Global Head Ambassador, will have their votes weighted as follows.
 
@@ -473,7 +488,7 @@ Voting will happen through rank-weighted voting. Ambassadors at Rank I, Advocate
 | V    | Global Ambassador         | 3***  | 15            |
 | VI   | Global Head Ambassador    | 3     | 21            |
 
-### 7. The Evaluation 
+### 7. The Evaluation
 
 In digital systems, decisions are designed to be straightforward and unambiguous. Yet, achieving consistent and fair judgments becomes far more complex regarding social systems like law, education, or corporate hierarchies. The delicate balance between the rule-makers intentions and the need for clarity often proves elusive, as history has shown numerous failures to maintain it. While our focus here lies on the technical facets of blockchain technology, it's essential to recognize that not every decision can be made with pure objectivity when evaluating people. Human judgement is still crucial. To navigate this, we promote open discussion and provide a basic framework to guide voters consisting of two components: broad considerations that apply across all ranks and specialist verticals that serve Polkadot's evolving needs. These verticals will mandate their deliverables and KPIs, operating as sub-programmes of the Fellowship.
 
@@ -494,7 +509,7 @@ An individual can make a broad and constantly evolving range of contributions to
 | III  | Senior Ambassador         | 2     | 6             | >45%              |
 | IV   | Principal Ambassador      | 2     | 10            | >60%              |
 | V    | Global Ambassador         | 3     | 15            | >75%              |
-| VI   | Global Head Ambassador    | 3     | 21            | >90%         
+| VI   | Global Head Ambassador    | 3     | 21            | >90%
 
 
 ##### 7.1.2 Social Interactions
@@ -504,12 +519,12 @@ These are consideration points when evaluating social interactions with other me
 - Critical Thinking: The individual is not afraid to calmly and succinctly challenge others when it would lead to a deeper understanding.
 - Community Support: The individual is persistently and consistently available to support other community members.
 
-#### 7.2 Specialist Verticals 
+#### 7.2 Specialist Verticals
 
 ##### 7.2.1 Overview
 Functional Fellowships consist of dynamic, self-organising groups with clear purpose, domain and accountabilities. Within these groups, individuals take on specific roles with defined scope, functions and contributions.
 
-The Ambassador Fellowship is designed to be resilient and versatile, empowering its members to be creative in finding solutions and innovations that support the ever-evolving Polkadot Network. The framework to support this must be broad enough to capture the skills and vision of many yet focused enough to ensure economic and social success while nurturing members to realise their ambitions as individual Ambassadors.  The Ambassador Fellowship's vision, mission, actions and ranks are outlined. This framework acts to breathe life into specialist verticals with a defined purpose, dedicated Members and ambitious and achievable goals. 
+The Ambassador Fellowship is designed to be resilient and versatile, empowering its members to be creative in finding solutions and innovations that support the ever-evolving Polkadot Network. The framework to support this must be broad enough to capture the skills and vision of many yet focused enough to ensure economic and social success while nurturing members to realise their ambitions as individual Ambassadors.  The Ambassador Fellowship's vision, mission, actions and ranks are outlined. This framework acts to breathe life into specialist verticals with a defined purpose, dedicated Members and ambitious and achievable goals.
 
 ##### 7.2.2 Principles
 - Clarity of purpose: Each specialist vertical must have a clear purpose statement that defines why it exists. The DIRECT guidelines should be followed during the design process.
@@ -524,15 +539,15 @@ The Ambassador Fellowship is designed to be resilient and versatile, empowering 
 - Accountabilities and Metrics: each role has specific accountabilities. These are measurable outcomes or deliverables.
 - Role evolution: roles and their responsibilities adapt as circumstances change. Regular role reviews ensure alignment with the vertical’s purpose.
 - Role-filling and double-linking: individuals fill roles based on their skills and passions. Double-linking means connecting roles across groups to foster collaboration.
- 
-##### 7.2.3 Example Verticals 
- 
+
+##### 7.2.3 Example Verticals
+
 **Internally focused**
 - Ambassador Development and Recognition — Investing in Ambassadors' personal and professional growth, making them key contributors to the Web3 space.
 - Programme Impact and Success — Establishing a framework to assess the programme’s effectiveness and ensure continuous improvement.
 - Recruitment and retention — Actively seeking to grow the programme and create a scheme that people want to work and grow within.
 
-**Externally focused** 
+**Externally focused**
 - Business Development tracks, such as Enterprise, Government, and Cross-Chain Partnerships
 - Investor Relations tracks, including managing relationships with existing investors, attracting new capital to the Polkadot ecosystem by engaging targeted investors, and conducting related activities explicitly aimed at increasing capital flow into the ecosystem and driving buy-pressure on the DOT token.
 - Education and Awareness. Enhancing understanding of Polkadot’s unique value propositions within the broader blockchain and Web3 communities
@@ -541,7 +556,7 @@ The Ambassador Fellowship is designed to be resilient and versatile, empowering 
 
 ### 8. Annexes, Clarifications and Amendments
 
-Any Ambassador may propose a clarification or an amendment to this manifesto. In line with the Polkadot Technical Fellowship manifesto, all proposals will be subject to a one-month challenge. During that time, a majority ranked-vote of the Ambassadors rank and above may vote to approve or reject the proposal. Pre-existing rules will always take precedence. Clarifications and amendments must not contravene established principles and standards. 
+Any Ambassador may propose a clarification or an amendment to this manifesto. In line with the Polkadot Technical Fellowship manifesto, all proposals will be subject to a one-month challenge. During that time, a majority ranked-vote of the Ambassadors rank and above may vote to approve or reject the proposal. Pre-existing rules will always take precedence. Clarifications and amendments must not contravene established principles and standards.
 
 If an Ambassador wants to propose an annex, this must be submitted through OpenGov as a root referendum. If a DOT holder who is not part of the Ambassador Fellowship does not want to join but wishes to propose an annex or any other changes, including closing down the Ambassador Fellowship, this must also be done through OpenGov as a root referendum.
 
@@ -1719,22 +1734,22 @@ Collective boundary management ensures clear responsibilities while enabling col
 * [Cross-Collective Integration API](#c41-cross-collective-integration-api)
 * [Professional Services API](#c42-professional-services-api)
 
---- 
+---
 
-### Appendix 
+### Appendix
 
 #### A. Philosophy and Principles of Polkadot
 
 Enlightened Liberalism. Honesty and freedom. But respect, politeness and tolerance.
-Critical Rationalism. Judge only by actions, not suppositions, associations or words. 
-Web 3. Provide individuals with tools to interact usefully with the world themselves, reducing their need to trust the group. 
-Polkadot. Decentralised empowers the individual 
+Critical Rationalism. Judge only by actions, not suppositions, associations or words.
+Web 3. Provide individuals with tools to interact usefully with the world themselves, reducing their need to trust the group.
+Polkadot. Decentralised empowers the individual
 
 #### B. Acknowledgements
 
-This manifesto is the product of the diverse, passionate, vocal community that is Polkadot's heart. Below, we acknowledge the more significant contributions from within the ecosystem, but the finished article is a tapestry of expression from past, present, and future collaborators. 
+This manifesto is the product of the diverse, passionate, vocal community that is Polkadot's heart. Below, we acknowledge the more significant contributions from within the ecosystem, but the finished article is a tapestry of expression from past, present, and future collaborators.
 
-**Special Mention for contribution to the underlying principles** 
+**Special Mention for contribution to the underlying principles**
 - Gavin Wood
 - Shawn Tabrizi
 
